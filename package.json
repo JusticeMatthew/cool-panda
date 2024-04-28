@@ -1,0 +1,45 @@
+{
+  "name": "cool-panda",
+  "displayName": "Cool Panda",
+  "description": "A theme inspired by Panda Syntax but favoring cooler tones",
+  "version": "0.0.1",
+  "engines": {
+      "vscode": "^1.64.0"
+  },
+  "categories": [
+      "Themes"
+  ],
+  "keywords": [
+      "panda",
+      "cool panda",
+      "panda synxtax",
+      "dark theme",
+      "teal",
+      "pink",
+      "vscode"
+  ],
+  "author": {
+      "name": "Matthew Justice"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/JusticeMatthew/cool-panda"
+  },
+  "bugs": {
+      "url": "https://github.com/JusticeMatthew/cool-panda/issues"
+  },
+  "galleryBanner": {
+      "color": "#1FE0CA",
+      "theme": "dark"
+  },
+  "icon": "images/cool-panda.png",
+  "contributes": {
+      "themes": [
+          {
+              "label": "Cool Panda",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Cool-Panda-color-theme.json"
+          }
+      ]
+  }
+}
