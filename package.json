@@ -22,9 +22,7 @@
   "author": {
       "name": "Matthew Justice"
   },
-  "website" : {
-    "url": "https://cool-panda.vercel.app/"
-  },
+  "homepage" : "https://cool-panda.vercel.app/",
   "repository": {
       "type": "git",
       "url": "https://github.com/JusticeMatthew/cool-panda"
