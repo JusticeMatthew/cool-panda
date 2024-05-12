@@ -1,4 +1,5 @@
-![Cool Panda logo](https://raw.githubusercontent.com/JusticeMatthew/cool-panda/main/images/cool-panda.png)
+![Cool Panda logo](https://raw.githubusercontent.com/JusticeMatthew/cool-panda/main/images/cool-panda.png){ width="200" height="200" style="display: block; margin: 0 auto" }
+ 
 
 A [VS Code](https://code.visualstudio.com/) theme inspired by the [Panda Syntax theme](https://github.com/PandaTheme/panda-syntax-vscode) but favoring cooler tones. (TS Supported)
 

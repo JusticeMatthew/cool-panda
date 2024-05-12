@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.0.4]
 
+- Updated images
+
+## [1.0.4]
+
 - Fixed website link
 
 ## [1.0.3]
