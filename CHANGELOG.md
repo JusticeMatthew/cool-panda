@@ -4,7 +4,9 @@ All notable changes to the "cool-panda" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.6]
 
+- Updated fixed readme
 
 ## [1.0.5]
 
