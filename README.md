@@ -2,7 +2,7 @@
  <img src="https://raw.githubusercontent.com/JusticeMatthew/cool-panda/main/images/cool-panda.png" alt="logo" width="240" height="240"/>
 </p> 
 
-<h4 align="center">A <a href="https://code.visualstudio.com/">VS Code<a/> theme inspired by the <a href="https://github.com/PandaTheme/panda-syntax-vscode">Panda Syntax</a> theme<br/>but favoring cooler tones. (TS Supported)</h4>
+<h4 align="center">A <a href="https://code.visualstudio.com/">VS Code</a> theme inspired by the <a href="https://github.com/PandaTheme/panda-syntax-vscode">Panda Syntax</a> theme<br/>but favoring cooler tones. (TS Supported)</h4>
 
 
 <p align="center">
