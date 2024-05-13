@@ -1,9 +1,13 @@
-![Cool Panda logo](https://raw.githubusercontent.com/JusticeMatthew/cool-panda/main/images/cool-panda.png){ width="200" height="200" style="display: block; margin: 0 auto" }
- 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/JusticeMatthew/cool-panda/main/images/cool-panda.png" alt="logo" width="240" height="240"/>
+</p> 
 
-A [VS Code](https://code.visualstudio.com/) theme inspired by the [Panda Syntax theme](https://github.com/PandaTheme/panda-syntax-vscode) but favoring cooler tones. (TS Supported)
+<h4 align="center" style="width:20px">A <a href="https://code.visualstudio.com/">VS Code<a/> theme inspired by the <a href="https://github.com/PandaTheme/panda-syntax-vscode">Panda Syntax</a> theme<br/>but favoring cooler tones. (TS Supported)</h4>
 
-![Cool Panda example](https://raw.githubusercontent.com/JusticeMatthew/cool-panda/main/images/cool-panda-preview.png)
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/JusticeMatthew/cool-panda/main/images/cool-panda-preview.png" alt="logo" width="600" height="700"/>
+</p> 
 
 
 ---
